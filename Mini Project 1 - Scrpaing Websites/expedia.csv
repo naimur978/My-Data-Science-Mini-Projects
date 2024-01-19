@@ -1,0 +1,80 @@
+arrival,departure,stops,prices,duration,airline,layover,layover_city
+7:00am,10:15am,1,120,4 hours 15 minutes,Scandinavian Airlines,0 hours 45 minutes,Copenhagen
+7:00am,3:20pm,1,120,9 hours 20 minutes,Scandinavian Airlines,5 hours 50 minutes,Copenhagen
+11:15am,3:20pm,1,134,5 hours 5 minutes,Scandinavian Airlines,1 hour 35 minutes,Copenhagen
+5:25am,9:00am,1,150,4 hours 35 minutes,Air Baltic,0 hours 45 minutes,Riga
+6:10am,9:05pm,1,151,15 hours 55 minutes,Lufthansa,11 hours 40 minutes,Munich
+8:15pm,10:20pm,0,182,3 hours 5 minutes,Finnair,,
+6:10am,5:30pm,2,186,12 hours 20 minutes,Lufthansa,4 hours 15 minutes,Frankfurt
+6:40am,5:30pm,1,186,11 hours 50 minutes,Lufthansa,8 hours 0 minutes,Frankfurt
+4:05pm,6:10pm,0,206,3 hours 5 minutes,Finnair,,
+7:35am,9:40am,0,233,3 hours 5 minutes,Finnair,,
+6:10pm,8:10am,1,237,16 hours 0 minutes,KLM,12 hours 10 minutes,Amsterdam
+6:10pm,8:45am,1,237,16 hours 35 minutes,KLM,12 hours 40 minutes,Amsterdam
+9:20pm,9:30am,2,242,14 hours 10 minutes,multipleAirlines,8 hours 40 minutes,Frankfurt
+9:20pm,10:30am,2,242,15 hours 10 minutes,multipleAirlines,8 hours 40 minutes,Frankfurt
+6:20am,8:30am,0,256,3 hours 10 minutes,Air France,,
+5:45pm,7:55pm,0,256,3 hours 10 minutes,Air France,,
+1:55pm,5:45pm,1,275,4 hours 50 minutes,KLM,1 hour 5 minutes,Amsterdam
+6:10pm,10:05pm,1,275,4 hours 55 minutes,KLM,0 hours 55 minutes,Amsterdam
+1:55pm,7:05pm,1,275,6 hours 10 minutes,KLM,2 hours 25 minutes,Amsterdam
+1:55pm,10:05pm,1,275,9 hours 10 minutes,KLM,5 hours 10 minutes,Amsterdam
+12:50pm,9:05pm,1,295,9 hours 15 minutes,Lufthansa,5 hours 0 minutes,Munich
+6:10am,5:10pm,1,295,12 hours 0 minutes,Lufthansa,7 hours 45 minutes,Munich
+6:10pm,10:05pm,1,297,4 hours 55 minutes,multipleAirlines,0 hours 55 minutes,Amsterdam
+1:40pm,5:30pm,1,302,4 hours 50 minutes,Lufthansa,1 hour 0 minutes,Frankfurt
+1:40pm,10:55pm,1,302,10 hours 15 minutes,Lufthansa,6 hours 25 minutes,Frankfurt
+4:00pm,10:50pm,1,317,7 hours 50 minutes,British Airways,3 hours 30 minutes,London
+12:00pm,6:55pm,2,331,7 hours 55 minutes,multipleAirlines,2 hours 0 minutes,Warsaw
+9:35pm,10:00am,2,331,14 hours 25 minutes,multipleAirlines,8 hours 40 minutes,Warsaw
+1:55pm,5:45pm,1,341,4 hours 50 minutes,multipleAirlines,1 hour 5 minutes,Amsterdam
+1:55pm,7:05pm,1,341,6 hours 10 minutes,multipleAirlines,2 hours 25 minutes,Amsterdam
+1:55pm,10:05pm,1,341,9 hours 10 minutes,multipleAirlines,5 hours 10 minutes,Amsterdam
+12:50pm,5:10pm,1,349,5 hours 20 minutes,Lufthansa,1 hour 5 minutes,Munich
+6:10am,11:25am,1,349,6 hours 15 minutes,Lufthansa,2 hours 0 minutes,Munich
+6:10am,1:50pm,1,349,8 hours 40 minutes,Lufthansa,4 hours 25 minutes,Munich
+6:40am,10:45am,1,356,5 hours 5 minutes,Lufthansa,1 hour 15 minutes,Frankfurt
+6:40am,1:35pm,1,356,7 hours 55 minutes,Lufthansa,4 hours 5 minutes,Frankfurt
+1:40pm,7:40am,2,357,20 hours 0 minutes,Brussels Airlines,6 hours 15 minutes,Brussels
+7:40pm,11:10am,1,369,17 hours 30 minutes,Lufthansa,13 hours 15 minutes,Munich
+11:35am,6:55pm,1,372,8 hours 20 minutes,multipleAirlines,4 hours 10 minutes,Warsaw
+7:35am,6:55pm,1,372,12 hours 20 minutes,multipleAirlines,8 hours 10 minutes,Warsaw
+4:40pm,12:00pm,1,383,21 hours 20 minutes,Iberia,14 hours 50 minutes,Madrid
+11:15am,10:55pm,2,405,12 hours 40 minutes,multipleAirlines,7 hours 15 minutes,Frankfurt
+6:10pm,10:55pm,1,421,5 hours 45 minutes,Lufthansa,1 hour 55 minutes,Frankfurt
+6:10pm,7:55am,1,427,15 hours 45 minutes,Lufthansa,11 hours 55 minutes,Frankfurt
+7:00am,2:15pm,2,428,8 hours 15 minutes,Swiss International Air Lines,1 hour 55 minutes,Zürich
+7:00am,7:15pm,2,428,13 hours 15 minutes,Swiss International Air Lines,1 hour 55 minutes,Zürich
+8:00am,1:10pm,1,434,6 hours 10 minutes,British Airways,1 hour 45 minutes,London
+8:00am,6:10pm,1,434,11 hours 10 minutes,British Airways,6 hours 40 minutes,London
+6:10pm,9:30am,1,441,17 hours 20 minutes,Lufthansa,13 hours 30 minutes,Frankfurt
+7:00am,2:15pm,2,444,8 hours 15 minutes,multipleAirlines,1 hour 55 minutes,Zürich
+11:15am,7:15pm,2,510,9 hours 0 minutes,multipleAirlines,2 hours 55 minutes,Zürich
+11:15am,9:05pm,2,517,10 hours 50 minutes,multipleAirlines,4 hours 10 minutes,Munich
+11:15am,9:05pm,2,517,10 hours 50 minutes,multipleAirlines,0 hours 55 minutes,Munich
+7:00am,5:30pm,2,524,11 hours 30 minutes,multipleAirlines,2 hours 5 minutes,Frankfurt
+5:25am,1:35pm,2,533,9 hours 10 minutes,multipleAirlines,1 hour 25 minutes,Frankfurt
+11:15am,7:15pm,2,576,9 hours 0 minutes,Swiss International Air Lines,2 hours 55 minutes,Zürich
+11:15am,10:30pm,2,576,12 hours 15 minutes,Swiss International Air Lines,2 hours 55 minutes,Zürich
+7:00am,7:15pm,2,576,13 hours 15 minutes,Swiss International Air Lines,7 hours 10 minutes,Zürich
+9:00am,5:30pm,2,586,9 hours 30 minutes,multipleAirlines,3 hours 55 minutes,Frankfurt
+11:15am,5:10pm,2,594,6 hours 55 minutes,multipleAirlines,0 hours 55 minutes,Munich
+7:00am,1:50pm,2,594,7 hours 50 minutes,multipleAirlines,1 hour 10 minutes,Munich
+7:00am,5:10pm,2,594,11 hours 10 minutes,multipleAirlines,1 hour 10 minutes,Munich
+7:00am,5:10pm,2,594,11 hours 10 minutes,multipleAirlines,5 hours 10 minutes,Munich
+7:00am,1:35pm,2,601,7 hours 35 minutes,multipleAirlines,2 hours 5 minutes,Frankfurt
+11:25am,7:15pm,2,661,8 hours 50 minutes,Swiss International Air Lines,1 hour 30 minutes,Zürich
+11:25am,10:30pm,2,661,12 hours 5 minutes,Swiss International Air Lines,4 hours 10 minutes,Zürich
+6:40am,3:05pm,2,662,9 hours 25 minutes,Austrian Airlines,1 hour 55 minutes,Vienna
+6:40am,3:05pm,2,662,9 hours 25 minutes,Austrian Airlines,1 hour 5 minutes,Vienna
+1:40pm,10:30pm,2,662,9 hours 50 minutes,Austrian Airlines,2 hours 5 minutes,Vienna
+1:40pm,10:30pm,2,662,9 hours 50 minutes,Austrian Airlines,1 hour 0 minutes,Vienna
+1:40pm,10:30pm,2,662,9 hours 50 minutes,Austrian Airlines,2 hours 55 minutes,Vienna
+11:25am,7:15pm,2,671,8 hours 50 minutes,multipleAirlines,1 hour 30 minutes,Zürich
+11:25am,9:05pm,2,679,10 hours 40 minutes,multipleAirlines,3 hours 25 minutes,Munich
+11:25am,5:30pm,2,686,7 hours 5 minutes,multipleAirlines,1 hour 30 minutes,Frankfurt
+12:50pm,7:25pm,2,763,7 hours 35 minutes,Austrian Airlines,1 hour 5 minutes,Vienna
+6:10am,3:05pm,2,763,9 hours 55 minutes,Austrian Airlines,3 hours 55 minutes,Vienna
+12:50pm,10:30pm,2,763,10 hours 40 minutes,Austrian Airlines,1 hour 5 minutes,Vienna
+11:25am,10:30pm,2,769,12 hours 5 minutes,Swiss International Air Lines,1 hour 30 minutes,Zürich
+7:00am,3:05pm,2,792,9 hours 5 minutes,Austrian Airlines,2 hours 10 minutes,Vienna

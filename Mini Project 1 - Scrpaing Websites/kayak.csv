@@ -1,0 +1,136 @@
+arrival,departure,stops,prices,duration,airline,layover,layover_city
+8:15 pm,10:20 pm,0,119,3h 05m,Finnair,none,none
+3:45 pm,"1:05 pm
+",1,96,22h 20m,Ryanair,18h 15m,WMI
+4:05 pm,6:10 pm,0,168,3h 05m,Finnair,none,none
+7:35 am,9:40 am,0,226,3h 05m,Finnair,none,none
+7:00 am,10:20 am,1,137,4h 20m,Scandinavian Airlines,0h 45m,CPH
+2:45 pm,6:50 pm,1,129,5h 05m,Scandinavian Airlines,1h 30m,ARN
+10:00 am,1:50 pm,1,137,4h 50m,Scandinavian Airlines,1h 15m,CPH
+5:45 pm,7:55 pm,0,558,3h 10m,Air France,none,none
+6:20 am,8:30 am,0,558,3h 10m,Air France,none,none
+9:15 am,12:40 pm,1,182,4h 25m,Norwegian,0h 40m,ARN
+3:45 pm,10:30 pm,1,114,7h 45m,Ryanair,3h 40m,WMI
+6:10 pm,10:05 pm,1,242,4h 55m,KLM,0h 55m,AMS
+5:25 am,9:00 am,1,280,4h 35m,airBaltic,0h 45m,RIX
+7:15 am,12:40 pm,1,151,6h 25m,Norwegian,2h 40m,ARN
+12:50 pm,5:10 pm,1,283,5h 20m,Lufthansa,1h 05m,MUC
+6:10 pm,10:05 pm,1,328,4h 55m,Air France,0h 55m,AMS
+6:10 pm,10:05 pm,1,328,4h 55m,Air France,0h 55m,AMS
+4:55 pm,10:10 pm,1,158,6h 15m,"Scandinavian Airlines, Transavia France",2h 40m,CPH
+7:00 am,1:50 pm,1,140,7h 50m,Scandinavian Airlines,4h 15m,CPH
+1:55 pm,5:45 pm,1,350,4h 50m,KLM,0h 55m,AMS
+7:00 am,10:50 am,1,380,4h 50m,KLM,0h 55m,AMS
+1:55 pm,5:45 pm,1,445,4h 50m,Air France,0h 55m,AMS
+4:55 pm,10:55 pm,1,157,7h 00m,"Scandinavian Airlines, easyJet",3h 20m,CPH
+6:10 am,11:25 am,1,286,6h 15m,Lufthansa,2h 00m,MUC
+10:00 am,3:35 pm,1,189,6h 35m,"Scandinavian Airlines, Vueling",2h 55m,CPH
+12:50 pm,6:35 pm,1,282,6h 45m,Lufthansa,2h 35m,MUC
+6:30 am,10:45 am,1,489,5h 15m,Lufthansa,1h 25m,FRA
+7:15 am,1:55 pm,2,140,7h 40m,Multiple airlines,2h 05m,"ARN, GDN"
+1:55 pm,7:05 pm,1,350,6h 10m,KLM,2h 15m,AMS
+6:10 pm,10:55 pm,1,412,5h 45m,Lufthansa,1h 55m,FRA
+7:00 am,11:55 am,1,443,5h 55m,KLM,2h 00m,AMS
+10:30 am,6:10 pm,1,203,8h 40m,"Norwegian, easyJet",3h 45m,PSA
+3:40 pm,10:10 pm,1,222,7h 30m,"Finnair, Transavia France",3h 55m,CPH
+8:00 am,1:20 pm,1,423,6h 20m,British Airways,1h 55m,LHR
+12:50 pm,7:45 pm,1,283,7h 55m,Lufthansa,3h 40m,MUC
+8:20 am,4:50 pm,1,206,9h 30m,"Finnair, easyJet",4h 50m,MAN
+3:40 pm,10:10 pm,1,241,7h 30m,"Finnair, Transavia",3h 55m,CPH
+1:40 pm,9:05 pm,2,194,8h 25m,Norwegian,1h 45m,"OSL, CPH"
+8:20 am,3:40 pm,1,231,8h 20m,"Finnair, easyJet",3h 50m,MAN
+5:25 am,1:55 pm,3,168,9h 30m,Multiple airlines,0h 45m,"RIX, ARN, ..."
+11:50 am,8:45 pm,1,205,9h 55m,"Ryanair, Vueling",5h 35m,STN-LGW
+11:50 am,7:45 pm,1,222,8h 55m,"Ryanair, easyJet",4h 35m,STN-LGW
+11:50 am,8:25 pm,1,221,9h 35m,"Ryanair, easyJet",5h 15m,STN-LGW
+8:00 am,3:30 pm,1,247,8h 30m,"Finnair, Vueling",4h 00m,LHR-LGW
+6:10 am,1:50 pm,1,286,8h 40m,Lufthansa,4h 25m,MUC
+4:00 pm,11:19 pm,1,305,8h 19m,"Finnair, Eurostar",2h 56m,LHR-LON
+3:30 pm,10:55 pm,2,211,8h 25m,"airBaltic, easyJet",2h 20m,"RIX, CPH"
+8:00 am,3:35 pm,1,380,8h 35m,British Airways,4h 10m,LHR
+1:40 pm,10:10 pm,2,209,9h 30m,"Norwegian, Transavia France",3h 15m,"OSL, CPH"
+4:55 pm,11:25 pm,2,435,7h 30m,Lufthansa,1h 55m,"CPH, MUC"
+9:20 am,6:50 pm,1,286,10h 30m,Scandinavian Airlines,6h 55m,ARN
+5:25 am,11:25 am,2,421,7h 00m,"airBaltic, Lufthansa",0h 45m,"RIX, MUC"
+8:00 am,5:40 pm,1,231,10h 40m,"Finnair, easyJet",6h 10m,LHR-LTN
+11:50 am,10:05 pm,2,201,11h 15m,Ryanair,3h 30m,"STN, DUB"
+9:20 am,7:45 pm,2,191,11h 25m,"Scandinavian Airlines, easyJet",1h 50m,"ARN, LHR-LGW"
+11:50 am,10:10 pm,2,201,11h 20m,Ryanair,3h 25m,"STN, SDR"
+8:00 am,4:40 pm,1,380,9h 40m,British Airways,5h 10m,LHR
+11:50 am,9:25 pm,2,249,10h 35m,Ryanair,1h 40m,"STN, PMI"
+4:00 pm,10:50 pm,1,503,7h 50m,British Airways,3h 30m,LHR
+12:50 pm,7:25 pm,2,473,7h 35m,Austrian Airlines,1h 05m,"MUC, VIE"
+8:20 am,6:25 pm,2,210,11h 05m,"Finnair, Ryanair",3h 35m,"MAN, DUB"
+9:20 am,8:45 pm,2,166,12h 25m,"Scandinavian Airlines, Vueling",1h 50m,"ARN, LHR-LGW"
+2:45 pm,9:25 pm,2,508,7h 40m,Lufthansa,2h 10m,"ARN, FRA"
+6:10 am,3:05 pm,2,351,9h 55m,Austrian Airlines,3h 55m,"MUC, VIE"
+5:25 am,3:30 pm,3,208,11h 05m,"airBaltic, Ryanair",0h 40m,"RIX, CPH, ..."
+10:00 am,7:20 pm,1,384,10h 20m,Scandinavian Airlines,6h 45m,CPH
+12:50 pm,11:25 pm,1,293,11h 35m,Lufthansa,7h 20m,MUC
+2:45 pm,9:25 pm,2,533,7h 40m,Lufthansa,1h 55m,"ARN, FRA"
+9:20 pm,"9:00 am
+",1,210,12h 40m,airBaltic,8h 50m,RIX
+9:15 am,9:05 pm,2,226,12h 50m,Norwegian,6h 15m,"ARN, CPH"
+9:15 am,9:05 pm,2,226,12h 50m,Norwegian,2h 45m,"ARN, CPH"
+12:50 pm,9:25 pm,2,403,9h 35m,Lufthansa,2h 35m,"MUC, FRA"
+12:50 pm,9:25 pm,2,403,9h 35m,Lufthansa,3h 35m,"MUC, FRA"
+6:10 am,5:10 pm,1,293,12h 00m,Lufthansa,7h 45m,MUC
+7:10 am,6:50 pm,1,290,12h 40m,Scandinavian Airlines,9h 10m,ARN
+7:10 am,3:05 pm,2,507,8h 55m,Austrian Airlines,2h 55m,"ARN, VIE"
+11:00 am,9:50 pm,2,249,11h 50m,"Finnair, Ryanair",2h 15m,"GOT, MAN"
+11:00 am,10:05 pm,2,246,12h 05m,"Finnair, Ryanair",3h 30m,"GOT, DUB"
+2:45 pm,10:55 pm,2,533,9h 10m,Lufthansa,1h 55m,"ARN, FRA"
+2:45 pm,10:55 pm,2,533,9h 10m,Lufthansa,2h 10m,"ARN, FRA"
+12:50 pm,10:55 pm,2,403,11h 05m,Lufthansa,2h 35m,"MUC, FRA"
+12:50 pm,10:55 pm,2,403,11h 05m,Lufthansa,3h 35m,"MUC, FRA"
+2:45 pm,10:30 pm,2,567,8h 45m,SWISS,1h 05m,"ARN, ZRH"
+2:45 pm,10:30 pm,2,567,8h 45m,SWISS,1h 30m,"ARN, ZRH"
+2:45 pm,11:25 pm,2,525,9h 40m,Lufthansa,2h 35m,"ARN, MUC"
+10:00 am,5:10 pm,2,611,8h 10m,Lufthansa,2h 10m,"CPH, MUC"
+12:50 pm,10:30 pm,2,473,10h 40m,Austrian Airlines,1h 05m,"MUC, VIE"
+9:00 am,6:55 pm,2,471,10h 55m,"airBaltic, LOT",4h 05m,"RIX, WAW"
+4:40 pm,11:45 pm,1,644,8h 05m,Iberia,1h 35m,MAD
+2:05 pm,10:50 pm,1,584,9h 45m,British Airways,5h 25m,LHR
+7:00 am,2:15 pm,2,663,8h 15m,SWISS,1h 55m,"CPH, ZRH"
+6:10 am,5:30 pm,2,404,12h 20m,Lufthansa,1h 15m,"MUC, FRA"
+7:10 am,5:10 pm,2,525,11h 00m,Lufthansa,4h 40m,"ARN, MUC"
+10:00 am,6:35 pm,2,611,9h 35m,Lufthansa,2h 10m,"CPH, MUC"
+7:00 am,5:10 pm,2,537,11h 10m,Lufthansa,5h 10m,"CPH, MUC"
+7:00 am,5:10 pm,2,537,11h 10m,Lufthansa,1h 10m,"CPH, MUC"
+7:10 am,5:30 pm,2,533,11h 20m,Lufthansa,2h 40m,"ARN, FRA"
+7:10 am,5:30 pm,2,533,11h 20m,Lufthansa,6h 05m,"ARN, FRA"
+12:55 pm,10:05 pm,1,596,10h 10m,Turkish Airlines,2h 35m,IST
+6:30 am,5:30 pm,1,495,12h 00m,Lufthansa,8h 10m,FRA
+7:10 am,1:20 pm,2,787,7h 10m,Scandinavian Airlines,1h 35m,"ARN, OSL"
+7:10 am,1:20 pm,2,787,7h 10m,Scandinavian Airlines,2h 15m,"ARN, OSL"
+7:10 am,1:20 pm,2,787,7h 10m,Scandinavian Airlines,0h 35m,"ARN, OSL"
+7:10 am,6:35 pm,2,525,12h 25m,Lufthansa,4h 40m,"ARN, MUC"
+7:10 am,6:35 pm,2,533,12h 25m,Lufthansa,2h 40m,"ARN, FRA"
+7:10 am,6:35 pm,2,533,12h 25m,Lufthansa,6h 05m,"ARN, FRA"
+10:00 am,7:15 pm,2,663,10h 15m,SWISS,4h 10m,"CPH, ZRH"
+7:10 am,1:50 pm,2,809,7h 40m,Scandinavian Airlines,2h 45m,"ARN, CPH"
+7:00 am,6:35 pm,2,537,12h 35m,Lufthansa,1h 10m,"CPH, MUC"
+7:00 am,6:35 pm,2,537,12h 35m,Lufthansa,5h 10m,"CPH, MUC"
+6:30 am,6:35 pm,1,495,13h 05m,Lufthansa,9h 15m,FRA
+7:10 am,7:25 pm,2,507,13h 15m,Austrian Airlines,2h 55m,"ARN, VIE"
+7:10 am,1:50 pm,2,809,7h 40m,Scandinavian Airlines,0h 50m,"ARN, CPH"
+7:10 am,1:50 pm,2,809,7h 40m,Scandinavian Airlines,2h 00m,"ARN, CPH"
+7:00 am,7:15 pm,2,603,13h 15m,SWISS,1h 55m,"CPH, ZRH"
+7:00 am,7:15 pm,2,603,13h 15m,SWISS,7h 10m,"CPH, ZRH"
+7:00 am,1:20 pm,2,946,7h 20m,Scandinavian Airlines,1h 30m,"CPH, OSL"
+4:55 pm,10:55 pm,2,442,7h 00m,Lufthansa,0h 40m,"CPH, FRA"
+9:20 am,7:25 pm,2,800,11h 05m,Scandinavian Airlines,5h 00m,"ARN, OSL"
+9:20 am,7:25 pm,2,800,11h 05m,Scandinavian Airlines,2h 50m,"ARN, OSL"
+9:20 am,7:20 pm,2,811,11h 00m,Scandinavian Airlines,4h 15m,"ARN, CPH"
+9:20 am,7:20 pm,2,811,11h 00m,Scandinavian Airlines,1h 35m,"ARN, CPH"
+9:20 am,7:20 pm,2,811,11h 00m,Scandinavian Airlines,5h 50m,"ARN, CPH"
+10:30 am,"5:35 am
+",3,273,20h 05m,Multiple airlines,4h 10m,"PSA, BOD, ..."
+12:50 pm,8:15 pm,1,1047,8h 25m,TAP AIR PORTUGAL,1h 10m,LIS
+7:40 am,6:30 pm,2,857,11h 50m,Iberia,2h 50m,"BRU, MAD"
+10:00 am,7:25 pm,2,944,10h 25m,Scandinavian Airlines,3h 40m,"CPH, OSL"
+10:00 am,7:25 pm,2,946,10h 25m,Scandinavian Airlines,1h 50m,"CPH, OSL"
+7:10 am,7:20 pm,2,809,13h 10m,Scandinavian Airlines,2h 00m,"ARN, CPH"
+7:10 am,7:20 pm,2,809,13h 10m,Scandinavian Airlines,0h 50m,"ARN, CPH"
+12:50 pm,9:40 pm,1,1047,9h 50m,TAP AIR PORTUGAL,2h 35m,LIS
+12:50 pm,11:00 pm,1,1065,11h 10m,TAP AIR PORTUGAL,3h 55m,LIS
