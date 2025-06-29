@@ -28,7 +28,7 @@ Scrape Websites/
 
 ## How to Use
 
-1. Run the scraping notebooks (`expedia.ipynb`, `kayak.ipynb`, `momondo.ipynb`) to collect and clean data from each website.
+1. Run the scraping notebooks (`expedia.ipynb`, `kayak.ipynb`, `momondo.ipynb`) to collect and clean dat`a from each website.
 2. Use `eda.ipynb` to load the CSV files, merge the data, and perform analysis/visualization.
 
 ## Requirements
