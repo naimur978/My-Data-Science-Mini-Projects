@@ -19,14 +19,6 @@ The `Code.ipynb` notebook contains the implementation of network analysis techni
 - Visualization
 - Metrics calculation
 
-## Report
-
-The `Scientific Report.pdf` provides a comprehensive overview of the analysis, including:
-- Objectives
-- Methodology
-- Results
-- Conclusions
-
 ## Proposal
 
 The `proposal.pdf` outlines the initial goals and approach for the network analysis project.
@@ -47,4 +39,6 @@ Below are some of the key visualizations generated during the analysis (see the 
 | 8 | <img src="figures/7.png" alt="Figure 8" width="300"> | Edge betweenness centrality visualization. |
 | 9 | <img src="figures/8.png" alt="Figure 9" width="300"> | Additional insights from the network analysis. |
 
-For detailed explanations and insights, refer to `Scientific Report.pdf`.
+## Scientific Report
+
+For a detailed overview of the analysis, including objectives, methodology, results, and conclusions, refer to the [Scientific Report](Scientific%20Report.pdf).
