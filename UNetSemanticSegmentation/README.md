@@ -4,7 +4,7 @@
 
 Welcome to the U-Net Semantic Segmentation project.
 
-## What is this?
+## Objectives
 This notebook addresses the salt identification challenge using the U-Net architecture. My goal is to segment images and find salt deposits, using deep learning and some classic image processing.
 
 ## Technologies Used
@@ -38,4 +38,23 @@ This notebook addresses the salt identification challenge using the U-Net archit
 2. Run the notebook to preprocess, train, and predict.
 3. Check out the visualizations and segmentation results.
 4. Export your predictions for submission.
+
+---
+
+## Keywords & Techniques Used
+
+
+**Techniques:**
+- Data preprocessing
+- Resizing images/masks
+- Boolean mask handling
+- Sigmoid activation
+- MeanIoU metric
+- Early stopping
+- Model checkpointing
+- ReduceLROnPlateau
+- Thresholding predictions
+- Upsampling masks
+- Run-length encoding for submission
+- Sanity checks with visualization
 

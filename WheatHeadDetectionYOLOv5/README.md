@@ -4,7 +4,7 @@
 
 Welcome to the Wheat Head Detection project using YOLOv5.
 
-## What is this?
+## Objectives
 This notebook is focused on detecting wheat heads in field images. I use YOLOv5 (a fast object detector) and techniques like pseudo-labeling and OOF evaluation to improve accuracy.
 
 ## Technologies Used
@@ -41,3 +41,22 @@ This notebook is focused on detecting wheat heads in field images. I use YOLOv5 
 3. Check out the detection results and visualizations.
 4. Export your predictions for submission.
 
+---
+
+## Keywords & Techniques Used
+
+
+
+**Techniques:**
+- Pseudo-labeling
+- OOF evaluation
+- Bayesian optimization
+- Bounding box conversion
+- TTA (rotations/flips)
+- WBF for ensemble predictions
+- Non-max suppression
+- Precision/IoU calculation
+- Validation
+- Submission formatting
+- Visualization of predictions vs ground truth
+- TTA (test-time augmentation)

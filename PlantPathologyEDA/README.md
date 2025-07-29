@@ -4,7 +4,7 @@
 
 Welcome to the Plant Pathology EDA project.
 
-## What is this?
+## Objectives
 This notebook is focused on exploring and modeling plant disease images. It is a multi class classification problem. I use deep learning (EfficientNet, TensorFlow) to classify leaf images and aim for the best accuracy using techniques like stratified cross-validation and test-time augmentation.
 
 ## Technologies Used
@@ -36,9 +36,25 @@ This notebook is focused on exploring and modeling plant disease images. It is a
 - Submission CSVs for competitions
 - Plots and charts for EDA
 
-## How to Use
-1. Put your images and CSVs in the right folders.
-2. Run the notebook step by step (or all at once).
-3. Check out the visualizations and results.
-4. Export your predictions for submission.
+
+## Key Words and Techniques Used
+Here are the main concepts, keywords, and techniques I have used in the notebook:
+
+- TPU acceleration
+- EfficientNetB3 architecture
+- TensorFlow's data augmentation
+- Focal loss and label smoothing
+- Bilinear layer
+- F1 score metric
+- Pretrained weights: 'imagenet' and 'noisy-student'
+- Stratified K-fold cross-validation
+- Test Time Augmentation (TTA)
+- Exploratory Data Analysis (EDA)
+- Seeding for reproducibility
+- Multiclass classification
+- Image metadata analysis
+- Duplicate image detection
+- Visualization with Matplotlib, Seaborn, Plotly
+- Model saving and loading (JSON, HDF5)
+
 
